@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{4EC3B8F8-43F1-44B7-A605-4BCBCB5E66AC}|Default">
+  <MonoDevelop.Ide.ItemProperties.OA__API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OA_Repository/Repository.cs">
+    <Files>
+      <File FileName="OA_API/Program.cs" Line="25" Column="16" />
+      <File FileName="OA_API/Startup.cs" Line="31" Column="1" />
+      <File FileName="OA_API/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="OA_API/appsettings.json" Line="1" Column="1" />
+      <File FileName="OA_API/Properties/launchSettings.json" Line="23" Column="29" />
+      <File FileName="OA_API/Controllers/ProductController.cs" Line="25" Column="1" />
+      <File FileName="OA_Service/ProductRepo.cs" Line="18" Column="1" />
+      <File FileName="OA_Repository/Repository.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OA" expanded="True">
+            <Node name="OA_API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="OA_Repository" expanded="True">
+              <Node name="Migrations" expanded="True" />
+              <Node name="Repository.cs" selected="True" />
+            </Node>
+            <Node name="OA_Service" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/gCamouInc/ArteDigital/OA/OA_API/Controllers/ProductController.cs" relfile="OA_API/Controllers/ProductController.cs" line="25" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

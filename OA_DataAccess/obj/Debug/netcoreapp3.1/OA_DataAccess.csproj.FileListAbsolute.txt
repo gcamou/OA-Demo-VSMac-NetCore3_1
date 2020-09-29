@@ -1,0 +1,9 @@
+/Volumes/gCamouInc/ArteDigital/OA/OA_DataAccess/bin/Debug/netcoreapp3.1/OA_DataAccess.deps.json
+/Volumes/gCamouInc/ArteDigital/OA/OA_DataAccess/bin/Debug/netcoreapp3.1/OA_DataAccess.dll
+/Volumes/gCamouInc/ArteDigital/OA/OA_DataAccess/bin/Debug/netcoreapp3.1/OA_DataAccess.pdb
+/Volumes/gCamouInc/ArteDigital/OA/OA_DataAccess/obj/Debug/netcoreapp3.1/OA_DataAccess.AssemblyInfoInputs.cache
+/Volumes/gCamouInc/ArteDigital/OA/OA_DataAccess/obj/Debug/netcoreapp3.1/OA_DataAccess.AssemblyInfo.cs
+/Volumes/gCamouInc/ArteDigital/OA/OA_DataAccess/obj/Debug/netcoreapp3.1/OA_DataAccess.csproj.CoreCompileInputs.cache
+/Volumes/gCamouInc/ArteDigital/OA/OA_DataAccess/obj/Debug/netcoreapp3.1/OA_DataAccess.dll
+/Volumes/gCamouInc/ArteDigital/OA/OA_DataAccess/obj/Debug/netcoreapp3.1/OA_DataAccess.pdb
+/Volumes/gCamouInc/ArteDigital/OA/OA_DataAccess/obj/Debug/netcoreapp3.1/OA_DataAccess.csprojAssemblyReference.cache

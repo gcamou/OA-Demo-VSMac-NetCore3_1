@@ -1,0 +1,17 @@
+/Volumes/gCamouInc/ArteDigital/OA/OA_Service/bin/Debug/netcoreapp3.1/OA_Service.deps.json
+/Volumes/gCamouInc/ArteDigital/OA/OA_Service/bin/Debug/netcoreapp3.1/OA_Service.runtimeconfig.json
+/Volumes/gCamouInc/ArteDigital/OA/OA_Service/bin/Debug/netcoreapp3.1/OA_Service.runtimeconfig.dev.json
+/Volumes/gCamouInc/ArteDigital/OA/OA_Service/bin/Debug/netcoreapp3.1/OA_Service.dll
+/Volumes/gCamouInc/ArteDigital/OA/OA_Service/bin/Debug/netcoreapp3.1/OA_Service.pdb
+/Volumes/gCamouInc/ArteDigital/OA/OA_Service/bin/Debug/netcoreapp3.1/OA_DataAccess.dll
+/Volumes/gCamouInc/ArteDigital/OA/OA_Service/bin/Debug/netcoreapp3.1/OA_Repository.dll
+/Volumes/gCamouInc/ArteDigital/OA/OA_Service/bin/Debug/netcoreapp3.1/OA_DataAccess.pdb
+/Volumes/gCamouInc/ArteDigital/OA/OA_Service/bin/Debug/netcoreapp3.1/OA_Repository.pdb
+/Volumes/gCamouInc/ArteDigital/OA/OA_Service/obj/Debug/netcoreapp3.1/OA_Service.csprojAssemblyReference.cache
+/Volumes/gCamouInc/ArteDigital/OA/OA_Service/obj/Debug/netcoreapp3.1/OA_Service.AssemblyInfoInputs.cache
+/Volumes/gCamouInc/ArteDigital/OA/OA_Service/obj/Debug/netcoreapp3.1/OA_Service.AssemblyInfo.cs
+/Volumes/gCamouInc/ArteDigital/OA/OA_Service/obj/Debug/netcoreapp3.1/OA_Service.csproj.CoreCompileInputs.cache
+/Volumes/gCamouInc/ArteDigital/OA/OA_Service/obj/Debug/netcoreapp3.1/OA_Service.csproj.CopyComplete
+/Volumes/gCamouInc/ArteDigital/OA/OA_Service/obj/Debug/netcoreapp3.1/OA_Service.dll
+/Volumes/gCamouInc/ArteDigital/OA/OA_Service/obj/Debug/netcoreapp3.1/OA_Service.pdb
+/Volumes/gCamouInc/ArteDigital/OA/OA_Service/obj/Debug/netcoreapp3.1/OA_Service.genruntimeconfig.cache
